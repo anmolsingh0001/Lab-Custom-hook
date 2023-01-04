@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.App *{
+  margin: 10px;
+}
+
+.Home input{
+  margin: 50px;
+  min-width: 40vw;
+}
